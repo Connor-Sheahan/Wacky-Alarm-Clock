@@ -4,7 +4,8 @@ Just like any other alarm clock, this program sounds a custom alarm when the set
 
 Basically, I came up with this when I was bored and got curious about how one could detect mouse clicks and change desktop backgrounds in Python. At the time, I kept forgetting to take my medication at the appropriate time, so I thought it would be a fun project to code my own alarm clock and make it really wacky.
 
-For this script to work, there requires some setup. 
+For this script to work, there requires some setup: 
+
 a) Firstly the script should be in a folder (mine was named "mouse_click" as seen in the code); the path in the code must be set to be the same as the path to this folder. 
 
 b) Secondly, the mp3 file acting as the alarm sound must also be in the folder, and the name in the code must match the name of the audio file. 
